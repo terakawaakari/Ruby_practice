@@ -22,7 +22,6 @@ def calendar
   days.each do |week|
     puts week.join(' ')
   end
-
 end
 
 calendar
